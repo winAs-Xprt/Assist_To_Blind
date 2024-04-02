@@ -1,47 +1,10 @@
-WINSA-XPRT
-Introduction
-WINSA-XPRT is a project aimed at assisting individuals with visual impairments by providing real-time object detection through webcam feeds and verbal feedback using text-to-speech technology.
+ASSIST_TO_BLIND
+WINSA-XPRT stands at the forefront of technological innovation, providing a revolutionary Python AI module tailored to empower visually impaired individuals in their daily lives. With cutting-edge computer vision capabilities, this module offers real-time object detection and verbal feedback, enabling seamless navigation and assistance for a myriad of tasks. From navigating environments to accurate object recognition, including everyday activities like monetary calculations, WINSA-XPRT serves as an indispensable companion, fostering independence and enhancing daily living experiences.
 
-Features
-Real-time object detection using computer vision techniques.
-Verbal feedback for detected objects through text-to-speech conversion.
-Support for various objects and scenes recognition.
-Easy-to-use interface for seamless interaction.
-Installation
-Clone Repository:
+📬 Contact
+If you want to contact me, you can reach me through below handles.
 
-bash
-Copy code
-git clone https://github.com/yourusername/winsa-xprt.git
-Install Dependencies:
+YouTube LinkedIn  Gmail
 
-Copy code
-pip install -r requirements.txt
-Run the Program:
+© 2024 V.ASWIN
 
-css
-Copy code
-python main.py
-Usage
-Ensure that your webcam is connected and accessible.
-Run the main.py script.
-As objects are detected in the webcam feed, their names and locations will be verbally announced.
-Adjust settings or customize the program as needed.
-Contributing
-Contributions are welcome! If you'd like to contribute to WINSA-XPRT, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/yourfeature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/yourfeature).
-Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-Ultralytics YOLO for object detection.
-OpenCV for computer vision capabilities.
-pyttsx3 for text-to-speech conversion.
-Contact
-For inquiries or support, please contact me Aswin
