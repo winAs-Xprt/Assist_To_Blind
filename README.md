@@ -4,7 +4,7 @@ WINSA-XPRT stands at the forefront of technological innovation, providing a revo
 📬 Contact
 If you want to contact me, you can reach me through below handles.
 
-YouTube LinkedIn  Gmail
+Website, LinkedIn & Gmail
 
 © 2024 V.ASWIN
 
